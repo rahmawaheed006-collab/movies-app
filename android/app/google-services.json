@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856037157116",
+    "firebase_url": "https://moviesapp-eea4b-default-rtdb.firebaseio.com",
+    "project_id": "moviesapp-eea4b",
+    "storage_bucket": "moviesapp-eea4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856037157116:android:7058e33fbfe76f0e88cf79",
+        "android_client_info": {
+          "package_name": "com.example.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856037157116-nbf3gn0j3ksf8qu8lnvovivec035jt27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsz1lbF1JaTEGgD1W0Bjf1m6iRHP8mW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856037157116-nbf3gn0j3ksf8qu8lnvovivec035jt27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
